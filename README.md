@@ -1,7 +1,10 @@
 # NLP and Semantic Measures for analysing psychological constructs
 Project in Computer Science - EDAN70
 
-This repository contains code for a project in the course EDAN70 during the spring semester of 2021.
+This repository contains code for a project. We investigate if we can predict whether a person is diagnosed with depression, anxiety, both or not using their responses to questions. 
+
+## Setup
+
 
 ## Authors
 
@@ -11,3 +14,5 @@ This repository contains code for a project in the course EDAN70 during the spri
 ## Acknowledgments
 
 * Thanks to Marcus Klang, Ph.D. Student at the Department of Computer Science, Lund University for supervising this project. 
+
+
